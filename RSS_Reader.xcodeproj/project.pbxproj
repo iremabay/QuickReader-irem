@@ -16,6 +16,7 @@
 		32C628412DCF9EA30090E0E8 /* NewsTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32C628402DCF9EA30090E0E8 /* NewsTableViewCell.swift */; };
 		32C628452DCFA9DD0090E0E8 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32C628442DCFA9DD0090E0E8 /* DetailViewController.swift */; };
 		ABBF7EDC2DD7676300EBE47F /* Lottie in Frameworks */ = {isa = PBXBuildFile; productRef = ABBF7EDB2DD7676300EBE47F /* Lottie */; };
+		ABE821A32DD8E62B00415CA0 /* SplashViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABE821A22DD8E62B00415CA0 /* SplashViewController.swift */; };
 		B21B29B92DD4BCB800DC9AA9 /* NewsItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = B21B29B82DD4BCB800DC9AA9 /* NewsItem.swift */; };
 		B21B29BB2DD4BCD700DC9AA9 /* RSSParser.swift in Sources */ = {isa = PBXBuildFile; fileRef = B21B29BA2DD4BCD700DC9AA9 /* RSSParser.swift */; };
 /* End PBXBuildFile section */
@@ -31,6 +32,7 @@
 		32C628382DCF81A40090E0E8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		32C628402DCF9EA30090E0E8 /* NewsTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewsTableViewCell.swift; sourceTree = "<group>"; };
 		32C628442DCFA9DD0090E0E8 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
+		ABE821A22DD8E62B00415CA0 /* SplashViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SplashViewController.swift; sourceTree = "<group>"; };
 		B21B29B82DD4BCB800DC9AA9 /* NewsItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewsItem.swift; sourceTree = "<group>"; };
 		B21B29BA2DD4BCD700DC9AA9 /* RSSParser.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RSSParser.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -77,6 +79,7 @@
 				32C628442DCFA9DD0090E0E8 /* DetailViewController.swift */,
 				B21B29B82DD4BCB800DC9AA9 /* NewsItem.swift */,
 				B21B29BA2DD4BCD700DC9AA9 /* RSSParser.swift */,
+				ABE821A22DD8E62B00415CA0 /* SplashViewController.swift */,
 			);
 			path = RSS_Reader;
 			sourceTree = "<group>";
@@ -165,6 +168,7 @@
 				32C628412DCF9EA30090E0E8 /* NewsTableViewCell.swift in Sources */,
 				B21B29BB2DD4BCD700DC9AA9 /* RSSParser.swift in Sources */,
 				32C6282D2DCF81A20090E0E8 /* SceneDelegate.swift in Sources */,
+				ABE821A32DD8E62B00415CA0 /* SplashViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
